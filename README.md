@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **C, C++, bash, JS, TS**
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **I know electronics**
+
 <p align="left">
 </p>
 
